@@ -11,3 +11,6 @@ make && make install
 cd rebar3
 ./bootstrap
 ./rebar3 local install
+
+# emq-relx
+cd emq-relx && make
