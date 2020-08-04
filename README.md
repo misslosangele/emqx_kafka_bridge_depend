@@ -1,0 +1,1 @@
+# emqx_kafka_bridge_depend
